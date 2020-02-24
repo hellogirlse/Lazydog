@@ -74,7 +74,8 @@ En dropdownlista med val som man kan välja.
 Sorterad lista (orderd list, `ol`) med listans punkter (List item, `li`):
 1. Kaffe
 2. Te
-3.  Mjölk
+3. Mjölk
+
 ```html
 <ol>
   <li>Kaffe</li>
